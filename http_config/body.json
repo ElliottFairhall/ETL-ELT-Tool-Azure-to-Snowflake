@@ -1,0 +1,13 @@
+{
+    "key_vault_url": "<your-key-vault-url>",
+    "secret_name": "<your-secret-name>",
+    "account_identifier": "<your-account-identifier>",
+    "user_login_name": "<your-user-login-name>",
+    "db_name": "<your-db-name>",
+    "schema_name": "<your-schema-name>",
+    "pipe_name": "<your-pipe-name>",
+    "path_to_private_key": "<your-path-to-private-key>",
+    "storage_account_url": "<your-storage-account-url>",
+    "container_name": "<your-container-name>",
+    "file_paths": "<your-file-paths>"
+}
